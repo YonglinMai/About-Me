@@ -1,0 +1,56 @@
+body {
+  font-family: 'Tangerine', cursive;
+  background: url("https://i1.3conline.com/images/piclib/201202/28/batch/1/128183/133041825766135dwflipwc.jpg");
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  text-align: center;
+  font-size: 70px;
+}
+
+.main {
+  display: flex;
+  justify-content: space-around;
+}
+
+.one {
+  padding:20px;
+  width:25%;
+  font-size:30px;
+}
+
+.two {
+  width:25%;
+  padding:20px;
+  font-size:30px;
+}
+
+.three {
+  padding:20px;
+  width:25%;
+  font-size:30px;
+}
+
+.four {
+  padding:20px;
+  width:25%;
+  font-size:30px;
+}
+
+h3 {
+  font-size: 35px;
+  font-family: 'Parisienne', cursive;
+  text-decoration: underline;
+}
+
+#pic{
+  height:300px;
+  width:auto;
+}
+.pics{
+  display: none;
+}
